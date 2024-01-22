@@ -31,6 +31,7 @@ int main()
     // Get input string
     cout << "Enter a string: ";
     getline(cin, inputString);
+    // example- abcn2124124
 
     // Count and display character occurrences
     countCharacters(inputString);
